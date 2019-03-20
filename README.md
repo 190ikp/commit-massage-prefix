@@ -1,4 +1,4 @@
-My Commit Massager Prefix
+My Commit Massage Prefix
 ====
 
 for good use of commit logs!
